@@ -22,4 +22,4 @@ Nivel nativo, es el idioma que más hablo.
 * Inglés\
 Nivel alto, es el idioma principal que uso al consumir contenido y escribir.
 
-Para más informacion no laboral, aqui hay un link a mi usuario de GitHub personal
+Para más información no laboral, aquí hay un link a mi usuario de GitHub [personal](https://github.com/BotSeri)
