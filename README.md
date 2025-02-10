@@ -5,7 +5,7 @@
 (Git y Github, uso basico de docker para correr contenedores, aplicaciones corporativas como Linear, Notion y Slack)
 * Vue y Javascript
 * Uso de aplicaciones backend\
-Con PHP: Laravel y CodeIgniter (este último siendo el que he usado más)
+Con PHP: Laravel y CodeIgniter (este último siendo el que he usado más)\
 Con Python: Django
 
 ### Otros conocimientos ajenos al desarrollo de aplicaciones web:
