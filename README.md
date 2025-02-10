@@ -11,7 +11,7 @@ Con Python: Django
 ### Otros conocimientos ajenos al desarrollo de aplicaciones web:
 * Montaje  y mantenimiento de equipos informáticos
 * Nivel Beginner de Python i nivel Intermediate de Java
-* Familiarización  con los Windows y Linux\
+* Familiarización con Windows y Linux\
 Ubuntu fue el sistema de Linux que más he usado
 
 ## Idiomas que hablo
